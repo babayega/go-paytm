@@ -1,7 +1,7 @@
 package paytm
 
 import (
-	"github.com/babayega/openssl"
+	"github.com/spacemonkeygo/openssl"
 )
 
 type Crypter struct {
